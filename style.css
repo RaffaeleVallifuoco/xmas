@@ -39,13 +39,14 @@ body::before {
 }
 
 /* HERO */
+
 .hero {
     position: relative;
     animation: heroZoomIn 2.8s ease-out forwards;
     width: 100%;
     height: 80vh;
-    background-image: url('tree.gif');
-    /* background-size: cover; */
+    background-image: url('https://i.imgur.com/YwWavVn.gif');
+    /* senza spazi */
     background-position: center;
     background-repeat: no-repeat;
     z-index: 0;
