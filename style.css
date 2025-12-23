@@ -44,7 +44,7 @@ body::before {
     position: relative;
     animation: heroZoomIn 2.8s ease-out forwards;
     width: 100%;
-    height: 80vh;
+    height: 100vh;
     background-image: url('https://i.imgur.com/YwWavVn.gif');
     /* senza spazi */
     background-position: center;
