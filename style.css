@@ -531,9 +531,9 @@ input[type="number"] {
         top: 50%;
         left: 0;
         width: 100vw;
-        padding: 10px 0;
+        padding: 6px 0;
         border-radius: 0;
-        background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7));
+        background: linear-gradient(to right, rgba(0, 0, 0, 0.53), rgba(0, 0, 0, 0.345));
         text-align: center;
         z-index: 9999;
     }
@@ -542,7 +542,7 @@ input[type="number"] {
         display: inline-block;
         white-space: nowrap;
         font-size: 1.2rem;
-        padding-left: 100%; /* parte fuori dallo schermo */
-        animation: scroll-text 40s linear infinite; /* rallenta lo scroll verticale */
+        padding-left: 100%; 
+        animation: scroll-text 30s linear infinite; 
     }
 }
